@@ -272,7 +272,6 @@ _STANDARD_MODULE_NAMES = [
     'pdb',
     'pickle',
     'pprint',
-    'pycolmap',
     'queue',
     'random',
     're',
