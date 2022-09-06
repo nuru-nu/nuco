@@ -320,7 +320,6 @@ _MODULE_NAMES = dict(
     flax='flax',
     nn='flax.linen',
     gin='gin',
-    imageio='imageio',
     # Even though `import ipywidgets as widgets` is the common alias, widget
     # is likely too ambiguous.
     ipywidgets='ipywidgets',
